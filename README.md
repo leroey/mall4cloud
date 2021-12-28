@@ -1,10 +1,10 @@
-# README
+![输入图片说明](doc/img/readme/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211203094919.png)
 
-![image-20210705143529597](doc/img/readme/image-20210705143529597.png)
+
+一个基于Spring Cloud、Nacos、Seata、Mysql、Redis、RocketMQ、canal、ElasticSearch、minio的微服务B2B2C电商商城系统，采用主流的互联网技术架构、全新的UI设计、支持集群部署、服务注册和发现以及拥有完整的订单流程等，代码完全开源，没有任何二次封装，是一个非常适合二次开发的电商平台系统。
+
 
 ## 前言
-
-本商城是基于Spring Cloud、Nacos、Seata、Mysql、Redis、RocketMQ、canal、ElasticSearch、minio的微服务B2B2C电商商城系统，采用主流的互联网技术架构、全新的UI设计、支持集群部署、服务注册和发现以及拥有完整的订单流程等，代码完全开源，没有任何二次封装，是一个非常适合二次开发的电商平台系统。
 
 本商城致力于为中大型企业打造一个功能完整、易于维护的微服务B2B2C电商商城系统，采用主流微服务技术实现。后台管理系统包含平台管理，店铺管理、商品管理、订单管理、规格管理、权限管理、资源管理等模块。
 
@@ -169,9 +169,12 @@ mall4cloud
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0703/131508_13858876_5094767.jpeg "法宝微信2.jpg")
 
 
-- mall4j开源技术QQ群：722835385
+- mall4cloud开源技术QQ群：561496886
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0703/110919_835cf484_5094767.jpeg "mall4j群.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/1119/134157_dd977d46_5094767.png "微信图片_20211119134107.png")
+
+## springboot版本商城请点击
+https://gitee.com/gz-yami/mall4j
 
 ## 你的点赞鼓励，是我们前进的动力~
 ## 你的点赞鼓励，是我们前进的动力~
