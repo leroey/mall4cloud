@@ -29,7 +29,7 @@
     <properties>
         <project.encoding>UTF-8</project.encoding>
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
-        <maven-resources-plugin.version>3.1.0</maven-resources-plugin.version>
+        <maven-resources-plugin.version>3.2.0</maven-resources-plugin.version>
         <java.version>1.8</java.version>
 
         <!-- 核心依赖 -->
@@ -53,7 +53,7 @@
         <minio.version>8.0.3</minio.version>
         <rocketmq-springboot.version>2.2.0</rocketmq-springboot.version>
         <weixin.version>4.0.0</weixin.version>
-        <spring-javaformat.version>0.0.22</spring-javaformat.version>
+        <spring-javaformat.version>0.0.29</spring-javaformat.version>
     </properties>
 
     <dependencyManagement>
