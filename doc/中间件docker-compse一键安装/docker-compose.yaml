@@ -171,6 +171,28 @@ services:
         aliases:
           - mall4cloud-rocketmq-console
 
+  mall4cloud-datong:
+    image: dtmall:1.0.0
+    container_name: mall4cloud-datong
+    restart: always
+    command: server /data
+    ports:
+      - 9101:9101
+      - 8000:8000
+      - 9100:9100
+      - 9102:9102
+      - 9103:9103
+      - 9105:9105
+      - 9106:9106
+      - 9108:9108
+      - 9112:9112
+      - 9113:9113
+#    volumes:
+#      - ./minio/data:/data
+#    environment:
+#      - MINIO_ROOT_USER=admin
+#      - MINIO_ROOT_PASSWORD=admin123456
+
 
 networks:
   rocketmq:
