@@ -175,7 +175,8 @@ services:
     image: dtmall:1.0.0
     container_name: mall4cloud-datong
     restart: always
-    command: server /data
+#    command: server /data
+    command: bash -c "sh start_test.sh"
     ports:
       - 9101:9101
       - 8000:8000

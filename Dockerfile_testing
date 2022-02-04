@@ -39,7 +39,7 @@ COPY mall4cloud-biz/target/mall4cloud-biz.jar mall4cloud-biz.jar
 COPY bin/start_test.sh /usr/bin/start_test.sh
 RUN chmod +x /usr/bin/start_test.sh
 
-CMD nohup sh -c "start_test.sh"
+#CMD nohup sh -c "start_test.sh"
 
 
 
