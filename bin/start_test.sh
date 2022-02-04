@@ -9,4 +9,4 @@ java -Djava.security.egd=file:/dev/./urandom -jar mall4cloud-payment.jar &
 java -Djava.security.egd=file:/dev/./urandom -jar mall4cloud-platform.jar &
 java -Djava.security.egd=file:/dev/./urandom -jar mall4cloud-rbac.jar &
 java -Djava.security.egd=file:/dev/./urandom -jar mall4cloud-search.jar &
-java -Djava.security.egd=file:/dev/./urandom -jar mall4cloud-user.jar
+java -Djava.security.egd=file:/dev/./urandom -jar mall4cloud-user.jar &
