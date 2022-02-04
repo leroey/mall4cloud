@@ -188,6 +188,8 @@ services:
       - 9108:9108
       - 9112:9112
       - 9113:9113
+    depends_on:
+      - mall4cloud-nacos
 #    volumes:
 #      - ./minio/data:/data
 #    environment:
